@@ -2,7 +2,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap");
 
 body {
+  font-family:  font-family: "Roboto", sans-serif;
+}
+
+.bebis, .nav-item {
   font-family: "Bebas Neue", "cursive";
+  color: #363958;
 }
 
 .nike-nav-color {
@@ -24,3 +29,19 @@ body {
   border: none;
   padding: 9px 16px;
 }
+.title {
+  color: #363958;
+  font-family: "Roboto", sans-serif;
+}
+
+.back{
+    Width :325px;
+    Height :327px;
+    background-color: #F1F1F1;
+    
+}
+.ractangular {
+    width: 350px;
+    height: 104px;
+    background-color: #ffffff;
+  }
